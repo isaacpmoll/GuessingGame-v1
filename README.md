@@ -14,9 +14,14 @@ Gameplay will be the following:
 It'll look like this:
 
 >Hello user!  What should I call you? MORTY
+
 >Okay MORTY -- It's time to play the guessing game :-)
+
 >Choose the upper limit of the range: 7
+
 >Okay!  Guess a number from 1-7: 4
+
 >WRONG! HOW COULD YOU DO THIS TO US, MORTY?
+
 >The number was: 5
 
